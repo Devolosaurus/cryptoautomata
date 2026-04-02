@@ -1,2 +1,0 @@
-# cryptoautomata
-vscode
